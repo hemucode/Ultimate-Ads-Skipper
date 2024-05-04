@@ -1,0 +1,17 @@
+{
+   "app_description": {
+      "message": "Ignora anúncios em vídeo Sites atualmente suportados: YouTube, Mx Player, SonyLiv"
+   },
+   "app_name": {
+      "message": "Skipper de anúncios definitivos"
+   },
+   "full_description": {
+      "message": "Skipper de anúncios definitivos é um complemento para pular anúncios em vídeo automaticamente e fechar todos os outros anúncios depois que o site fornecer um botão de pular anúncio. Ele não bloqueia um anúncio. Então agora você pode sentar no seu sofá e assistir filmes sem qualquer interrupção. Sites atualmente suportados:"
+   },
+   "rate": {
+      "message" :"ajude-nos e avalie-nos!"
+   },
+   "donate":{
+      "message" :"doação"
+   }
+}

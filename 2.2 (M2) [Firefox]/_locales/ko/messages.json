@@ -1,0 +1,17 @@
+{
+   "app_description": {
+      "message": "현재 지원되는 동영상 광고 건너뛰기 웹사이트: YouTube, Mx Player, SonyLiv"
+   },
+   "app_name": {
+      "message": "궁극의 광고 스키퍼"
+   },
+   "full_description": {
+      "message": "궁극의 광고 스키퍼 는 웹사이트에서 광고 건너뛰기 버튼을 제공한 후 동영상 광고를 자동으로 건너뛰고 다른 모든 광고를 닫는 애드온입니다. 광고를 차단하지 않습니다. 이제 소파에 앉아서 방해받지 않고 영화를 볼 수 있습니다. 현재 지원되는 웹사이트:"
+   },
+   "rate": {
+      "message" :"도와주시고 평가해주세요"
+   },
+   "donate":{
+      "message" :"기부"
+   }
+}

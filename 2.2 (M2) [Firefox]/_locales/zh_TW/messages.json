@@ -1,0 +1,17 @@
+{
+   "app_description": {
+      "message": "跳過視頻廣告目前支持的網站：YouTube、Mx Player、SonyLiv"
+   },
+   "app_name": {
+      "message": "終極廣告隊長"
+   },
+   "full_description": {
+      "message": "終極廣告隊長 是一個插件，用於在網站提供跳過廣告按鈕後自動跳過視頻廣告並關閉所有其他廣告。 它不會阻止廣告。 因此，您現在可以坐在沙發上看電影，而不會受到任何干擾。 目前支持的網站："
+   },
+   "rate": {
+      "message" :"請幫助和評價我們！"
+   },
+   "donate":{
+      "message" :"捐款"
+   }
+}

@@ -1,0 +1,17 @@
+{
+   "app_description": {
+      "message": "跳过视频广告目前支持的网站：YouTube、Mx Player、SonyLiv"
+   },
+   "app_name": {
+      "message": "终极广告船长"
+   },
+   "full_description": {
+      "message": "终极广告船长 是一个插件，用于在网站提供跳过广告按钮后自动跳过视频广告并关闭所有其他广告。 它不会阻止广告。 因此，您现在可以坐在沙发上看电影，而不会受到任何干扰。 目前支持的网站："
+   },
+   "rate": {
+      "message" :"请帮助和评价我们！"
+   },
+   "donate":{
+      "message" :"捐款"
+   }
+}
